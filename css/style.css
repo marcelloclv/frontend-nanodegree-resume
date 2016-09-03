@@ -11,7 +11,7 @@ h5,
 h6 {
   padding:0;
   margin:0;
-  font-family: "Roboto", sans-serif;
+  font-family: "courier", coursive;
 }
 
 .clear-fix {
@@ -26,29 +26,29 @@ h6 {
 
 h1 {
   font-size: 40px;
-  color: #f5a623;
+  color: #6daf08;
   line-height: 48px;
   display: inline;
 }
 
 h2 {
   font-weight: bold;
-  font-size: 24px;
-  color: #999;
+  font-size: 20px;
+  color: #a52121;
   line-height: 29px;
   padding: 10px;
 }
 
 h3 {
   font-style: italic;
-  font-size: 20px;
+  font-size: 16px;
   color: #000;
   line-height: 22px;
 }
 
 h4 {
   font-weight: bold;
-  font-size: 14px;
+  font-size: 12px;
   color: #4a4a4a;
   line-height: 17px;
 }
@@ -95,21 +95,21 @@ a {
 .welcome-message {
   font-style: italic;
   font-size: 18px;
-  color: #f3f3f3;
+  color: #024e7b;
   line-height: 28px;
 }
 
 #skills-h3 {
-  color: #f5ae23;
+  color: #6daf08;
   display: none;
 }
 
 .orange {
-  background-color: #f5ae23;
+  background-color: #6daf08;
 }
 
 .orange-text {
-  color: #f5ae23;
+  color: #6daf08;
 }
 
 .white-text {
@@ -125,11 +125,13 @@ a {
 
 .dark-gray {
   background-color: #4a4a4a;
+  background-image: url("https://wallpaperscraft.com/image/lines_wavy_background_light_43976_3840x2400.jpg");
 }
 
 /* TODO: Replace with image later */
 #header {
   background-color: #484848;
+  background-image: url("https://wallpaperscraft.com/image/lines_wavy_background_light_43976_3840x2400.jpg");
 }
 
 .flex-box {
@@ -169,6 +171,7 @@ img {
 
 span {
   padding: 5px;
+  font-size: 14px;
 }
 
 #lets-connect {
